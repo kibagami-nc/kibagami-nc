@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm kibagami-nc</h1>
-<h3 align="center">A passionate from new-Caledonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibagami-nc&label=Profile%20views&color=000000&style=flat" alt="kibagami-nc" /> </p>
 
@@ -10,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__manleyy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__manleyy__" height="30" width="40" /></a>
-<a href="https://discord.gg/kibagami." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kibagami." height="30" width="40" /></a>
+<a href="https://discord.gg/kpqRAqgj9G5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kibagami." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
