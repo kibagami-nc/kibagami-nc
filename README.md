@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibagami-nc&label=Profile%20views&color=000000&style=flat" alt="kibagami-nc" /> </p>
 
-- 📫 How to reach me **kibagami.gaming@gmail.com**
+- 📫 How to reach me **manley-bouille@outlook.fr**
 
 - ⚡ Fun fact **im normal**
 
