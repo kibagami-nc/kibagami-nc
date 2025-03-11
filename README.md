@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kibagami-nc</h1>
+<h1 align="center">Hi 👋, I'm Manley</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibagami-nc&label=Profile%20views&color=000000&style=flat" alt="kibagami-nc" /> </p>
 
