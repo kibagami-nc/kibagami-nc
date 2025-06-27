@@ -22,15 +22,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-bay.vercel.app/api?username=manley-bouille&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats-bay.vercel.app/api/top-langs/?username=manley-bouille&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 📈 Mes compétences
 
 ![Skills Chart](https://skillicons.dev/icons?i=python,bash,js,html,css,linux,git,vscode,sqlite)
