@@ -30,6 +30,6 @@
 pie title Répartition de mes compétences
     "Python" : 40
     "Bash / Linux" : 25
-    "JavaScript / Web" : 15
-    "HTML/CSS" : 10
+    "JavaScript / Web" : 10
+    "HTML/CSS" : 15
     "SQL / DB" : 10
