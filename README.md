@@ -28,8 +28,8 @@
 
 ```mermaid
 pie title Répartition de mes compétences
-    "Python" : 40
-    "Bash / Linux" : 25
+    "Python" : 20
+    "Bash / Linux" : 45
     "JavaScript / Web" : 5
     "HTML/CSS" : 15
     "SQL / DB" : 15
