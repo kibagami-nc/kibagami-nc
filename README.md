@@ -1,7 +1,7 @@
 # 👋 Bonjour, moi c’est Manley Bouille
 
 🎯 Développeur passionné par le **web**, les **scripts Python** et le **hacking éthique**.  
-📍 Situé en Nouvelle-Calédonie | 🖥️ Linux user | 💡 Toujours curieux d’apprendre
+📍 Nouvelle-Calédonie | 🖥️ Linux user | 💡 Toujours curieux d’apprendre
 
 ---
 
