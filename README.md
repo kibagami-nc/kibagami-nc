@@ -24,7 +24,7 @@
 
 ## 📈 Mes compétences
 
-![Skills Chart](https://skillicons.dev/icons?i=python,bash,js,html,css,linux,git,vscode,sqlite)
+![Skills Chart](https://skillicons.dev/icons?i=python,bash,html,css,linux,git,vscode,sqlite)
 
 ```mermaid
 pie title Répartition de mes compétences
