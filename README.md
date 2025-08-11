@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c’est Manley Bouille
+# 👋 Ia ora na, moi c’est Manley Bouille
 
 🎯 Développeur passionné par le **web**, les **scripts Python** et le **hacking éthique**.  
 📍 Nouvelle-Calédonie | 🖥️ Linux user | 💡 Toujours curieux d’apprendre
