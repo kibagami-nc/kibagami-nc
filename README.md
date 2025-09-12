@@ -2,7 +2,7 @@
 
 # 👋 Hello, moi c'est Manley Bouille
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Développeur+Jr;Linux" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Développeur+Jr;Linux+Supremacy" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎯-Développeur%20-FF6B6B?style=for-the-badge" />
