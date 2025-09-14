@@ -14,7 +14,10 @@
 
 <div align="center">
   <a href="https://kibagami-nc.github.io/Portfolio_Manley.B/">
-    <img src="https://img.shields.io/badge/🚀_Découvrir_Mon_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" height="50" />
+    <img src="https://img.shields.io/badge/🚀_Portfolio_GitHub-FF6B6B?style=for-the-badge&logoColor=white" height="50" />
+  </a>
+  <a href="https://www.kibagami.pro/">
+    <img src="https://img.shields.io/badge/🌐_Site_Web_Pro-4ECDC4?style=for-the-badge&logoColor=white" height="50" />
   </a>
 </div>
 
@@ -69,6 +72,28 @@
 - [ ] 🛡️ Obtenir des certifications
 - [ ] 🤝 Contribuer à des projets open source
 - [ ] 📱 Apprendre React/Vue.js
+
+</div>
+
+---
+
+## 🌐 Projet Site Web Pro - [kibagami.pro](https://www.kibagami.pro/)
+
+<div align="left">
+
+### ✅ **Réalisé**
+- ✅ Mise en place du serveur Linux
+- ✅ Configuration HTTPS
+
+### ❌ **En cours / À venir**
+- ❌ Mise à jour du contenu (pas à jour pour l'instant)
+- ❌ Intégration PHP et base de données
+- ❌ Système de comptes utilisateurs
+- ❌ Projet de gestion de rendez-vous avec Google Calendar (sous-domaine)
+- ❌ Migration vers Angular et Node.js
+
+### 🎯 **Objectif**
+Créer une plateforme web professionnelle complète avec gestion de rendez-vous intégrée pour améliorer la section Contact.
 
 </div>
 
