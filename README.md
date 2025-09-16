@@ -84,10 +84,10 @@
 ### ✅ **Réalisé**
 - ✅ Mise en place du serveur Linux
 - ✅ Configuration HTTPS
-
+- ✅ Intégration PHP et base de données
+  
 ### ❌ **En cours / À venir**
 - ❌ Mise à jour du contenu (pas à jour pour l'instant)
-- ❌ Intégration PHP et base de données
 - ❌ Système de comptes utilisateurs
 - ❌ Projet de gestion de rendez-vous avec Google Calendar (sous-domaine)
 - ❌ Migration vers Angular et Node.js
