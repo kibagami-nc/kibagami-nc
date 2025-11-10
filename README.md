@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, moi c'est Manley Bouille
+# 👋 Hello World! Moi c'est Manley Bouille :D
 
 ## Mon portfolio : https://www.kibagami.pro
 
