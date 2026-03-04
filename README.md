@@ -19,9 +19,11 @@
     </a>
 </div>
 
-<div>
+<div align="center">
     <a href="https://www.kibagami.pro/">
-        <h2>🐼 Voir mon portfolio 🍙</h2>
+        <button style="background-color: #9AC8EB; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+            🐼 Voir mon portfolio 🍙
+        </button>
     </a>
 </div>
 
