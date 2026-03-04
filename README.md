@@ -1,22 +1,30 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AC8EB&height=120&section=header" alt="header"/> 
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9AC8EB&width=435&lines=Salut%2C+c'est+Manley+Bouille :D;Étudiant+en+informatique" alt="Un informaticien hors normes xD"/>
+</a>
 
-                                  ___           ___           ___       ___       ___     
-                                 /\__\         /\  \         /\__\     /\__\     /\  \    
-                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                 \/__/         \/__/         \/__/     \/__/     \/__/    
-                                 
-<div align="center">
+### Mes skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,postgresql,java,spring,html,css,bootstrap,tailwind,angular,php)](https://skillicons.dev)
 
-  
-# 👋 Salut ! Moi c'est Manley Bouille
+### En cours
+[![Learning](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
-🎓 Actuellement en **BTS SIO** option **SLAM** 
+### Employeur?
+> ## IMPORTANT  
+> <a href="https://www.kibagami.pro/pdf/Manley_Bouille_CV.pdf">Voir mon CV</a>
 
-# https://www.kibagami.pro
+### Contactez moi!
+<div>
+    <a href="https://www.linkedin.com/in/manley-bouille/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+</div>
+
+<div>
+    <a href="https://www.kibagami.pro/">
+        <h2>🐼 Voir mon portfolio 🍙</h1>
+    </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AC8EB&height=120&section=footer" alt="footer"/>
