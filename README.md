@@ -20,8 +20,8 @@
 </div>
 
 <div>
-    <a href="https://www.kibagami.pro/">
-        <h2>🐼 Voir mon portfolio 🍙</h1>
+    <a>
+        <h2 href="https://www.kibagami.pro/">🐼 Voir mon portfolio 🍙</h1>
     </a>
 </div>
 
