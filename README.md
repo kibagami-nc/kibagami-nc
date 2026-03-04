@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AC8EB&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9AC8EB&width=435&lines=Salut%2C+c'est+Manley+Bouille :D;Étudiant+en+informatique" alt="Un informaticien hors normes xD"/>
-</a>
+# Ia ora na! Bienvenue sur mon github :D
 
 ### Mes skills
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,postgresql,java,spring,html,css,bootstrap,tailwind,angular,php)](https://skillicons.dev)
