@@ -3,7 +3,7 @@
 # Ia ora na! Bienvenue sur mon github :D
 
 ### Mes skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,postgresql,java,spring,html,css,bootstrap,tailwind,angular,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,postgresql,java,spring,html,css,bootstrap,tailwind,angular)](https://skillicons.dev)
 
 ### En cours
 [![Learning](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
