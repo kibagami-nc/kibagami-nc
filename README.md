@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AC8EB&height=120&section=header" alt="header"/> 
 
-# Ia ora na! Bienvenue sur mon github :D
+# Salut! Bienvenue sur mon github :D
 
 ### Mes skills
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,postgresql,java,spring,html,css,bootstrap,tailwind,angular)](https://skillicons.dev)
