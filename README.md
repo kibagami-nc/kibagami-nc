@@ -3,10 +3,10 @@
 # Salut! Bienvenue sur mon github :D
 
 ### Mes skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,postgresql,java,spring,html,css,bootstrap,tailwind,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,postgresql,html,css,bootstrap,tailwind,angular)](https://skillicons.dev)
 
 ### En cours
-[![Learning](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,spring,c)](https://skillicons.dev)
 
 ### Employeur?
 > ## IMPORTANT  
