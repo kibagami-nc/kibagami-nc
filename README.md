@@ -8,23 +8,4 @@
 ### En cours
 [![Learning](https://skillicons.dev/icons?i=java,spring,c)](https://skillicons.dev)
 
-### Employeur?
-> ## IMPORTANT  
-> <a href="https://www.kibagami.pro/pdf/Manley_Bouille_CV.pdf">Voir mon CV</a>
-
-### Contactez moi!
-<div>
-    <a href="https://www.linkedin.com/in/manley-bouille/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://www.kibagami.pro/">
-        <button style="background-color: #9AC8EB; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-            🐼 Voir mon portfolio 🍙
-        </button>
-    </a>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AC8EB&height=120&section=footer" alt="footer"/>
